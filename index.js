@@ -1,5 +1,5 @@
-function myEach() {
-
+const myEach(collection, callback) {
+return collection
 
 }
 
